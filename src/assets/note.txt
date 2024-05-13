@@ -1,0 +1,3 @@
+primary color : #38BDF8
+heading color : #E2E8F0
+para : #94A3B8

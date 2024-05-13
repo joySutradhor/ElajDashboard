@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito:wght@400;700;900;1000&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .heading {
+    @apply text-[#202223] text-[22px] font-nunito ;
+  }
+  .subHeading{
+    @apply text-[#333333] font-nunito ;
+  }
+  .darkSubHeading{
+    @apply text-[#A5ACBA] font-nunito ;
+  }
+  .textColor{
+    @apply text-[#9a9a9a] text-[14px] font-nunito
+  }
+  .darkTextColor{
+    @apply text-[#656565] text-[14px] font-nunito
+  }
+  .mainColor {
+    @apply text-[#95C11F] font-nunito
+  }
+  .priceColor {
+    @apply text-[#626569] text-[20px] font-nunito
+  }
+  .filterButton{
+    @apply px-4 py-1  text-[#9a9a9a]   border-[1px]  font-nunito cursor-pointer hover:bg-gray-100 hover:shadow-sm;
+  }
+  
+}
+
+@layer base {
+  /* h1{
+    @apply md:text-4xl text-2xl font-serif text-center ;
+  } */
+ 
+}

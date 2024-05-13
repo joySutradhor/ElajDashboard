@@ -1,0 +1,12 @@
+Heading color : #202223
+subHeading color :#333333
+text color : #9a9a9a
+price color : #626569
+-------------------------
+
+darkBg-color: #191E24,
+darkCard-color: #1D232A, 
+darkHeading color : 
+dark subHeading color : #A5ACBA
+dark Text color : #656565
+dark price color : #CBD5E1
